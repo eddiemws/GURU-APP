@@ -1,8 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:guruapp/app/screens/root/root.dart';
-
-class WelcomePage extends StatelessWidget {
-  const WelcomePage({super.key});
 
   @override
   Widget build(BuildContext context) {

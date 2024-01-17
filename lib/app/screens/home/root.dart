@@ -1,4 +1,8 @@
+//import 'package:guruapp/app/screens/home/root.dart';
+import 'package:flutter/material.dart';
 
+class Home extends StatelessWidget {
+  const Home({super.key});
 
   @override
   Widget build(BuildContext context) {

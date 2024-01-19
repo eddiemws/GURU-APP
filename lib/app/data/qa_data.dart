@@ -54,13 +54,4 @@ The second person you love is everyone else. Love brings joy to the world. Where
  Although Struggle does not guarantee success, more Struggle increases chances of getting it. The heart struggles to pump until when it gets tired and stops. It is necessary to struggle in life. It cannot be avoided because just like death, struggle is also promised.
 If we accept our condition as it is, and are willing to change it then we can be successful in our goals. If we don’t accept this, then our Struggle will be meaningless for in order to struggle to be successful, there must be a change of state involved. Hungry to full, homeless to having a shelter, sick to healthy, poor to rich is all achieved after Struggle. ''',
   },
-  {
-    'title': 'DEATH',
-    'question': [
-      'Death is the end of the life of a person or organism.',
-      'How to understand death?'
-    ],
-    'answer':
-        ''' Just as we struggled to get into life, when we are tired, naturally everything is bound to come to an end. Death is not appreciated by us because it interferes with our love for something. Nothing will live forever, since 1000 years ago, you didn\\'t exist and 1000 years later, you will not exist. Death brings forth sorrow especially if it involves a loved one. Though all this are true, we should always keep in mind that nothing lasts forever including ourselves. We should mourn the departed and continue with life, for one day, we might just be the ones who will depart from the rest. They will mourn and also one day they will be mourned by others and that might not be fair sometimes but it is reality and the sooner we accept that, the sooner we move on.''',
-  },
-];
+ 
